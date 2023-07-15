@@ -1,54 +1,42 @@
-I am a Frontend Reactjs Developer with 2 years of working experience.
+<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+<h3 align="center">React.js Developer | Crafting Engaging Technical Articles on Web App Development | Organic Growth Hacker</h3>
 
-I love to share my learnings on DevCommunity where my posts have crossed 384,000+ views, and one of my articles has been featured in the Top 7 articles of the week.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit313&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit313" /> </p>
 
-My Dev.to profile: https://dev.to/abdulbasit313
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasit313" alt="abdulbasit313" /></a> </p>
 
-### Portfolio
+<p align="left"> <a href="https://twitter.com/basit_miyanji" target="blank"><img src="https://img.shields.io/twitter/follow/basit_miyanji?logo=twitter&style=for-the-badge" alt="basit_miyanji" /></a> </p>
 
-I have rebuilt my portfolio here you can check it out.
+- 🔭 I’m currently working on [Codevertiser](https://www.codevertiser.com/)
 
-<strong>[Visit](codewithbasit.netlify.app)</strong>
-![Portfolio](portfolio.png)
+- 🌱 I’m currently learning **Next.js**
 
-<br>
+- 👯 I’m looking to collaborate on [https://github.com/AbdulBasit313/practical-reactjs-coding-challenges](https://www.codevertiser.com/free-reactjs-coding-challenges-for-responsive-UI/)
 
-<hr/>
+- 👨‍💻 All of my projects are available at [https://codewithbasit.netlify.app/](https://codewithbasit.netlify.app/)
 
-### My Articles | Codevertiser.com
+- 📝 I regularly write articles on [https://www.codevertiser.com/](https://www.codevertiser.com/)
 
-I have launched my Gatsby blogging site where you can read interactive programming-related articles via the power of MDX files.
+- 💬 Ask me about **React, Gatsby, Styled Components, Technical Blogging**
 
-<strong>[Visit](https://www.codevertiser.com/)</strong>
-![Portfolio](Codevertiser.png)
+- 📫 How to reach me **abdul_basit313@outlook.com**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/basit600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="basit600" height="30" width="40" /></a>
+<a href="https://dev.to/abdulbasit313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulbasit313" height="30" width="40" /></a>
+<a href="https://twitter.com/basit_miyanji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basit_miyanji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulbasitprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbasitprofile" height="30" width="40" /></a>
+</p>
 
-<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-### Passion Projects
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/devbasit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/devbasit" /></a></p><br><br>
 
-<strong>Color Contrast Collections</strong>
-<em>59 curated "Background with Text" colors contrast</em>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasit313&show_icons=true&locale=en&layout=compact" alt="abdulbasit313" /></p>
 
-These days I am working on my passion project Color Contrast Collections. This web app helps you to pick the best contrast for our landing, blogs, etc.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasit313&show_icons=true&locale=en" alt="abdulbasit313" /></p>
 
-<strong>[Visit](https://color-contrast-collection.netlify.app/)</strong>
-![Color Contrast Collections](color-contrast.png)
-
-<br>
-
-<strong>Reactjs Template</strong>
-
-Free Reactjs Waitlist Template with Light and Dark Theme
-
-<strong>[Demo](https://waitlist-templates.web.app/)</strong>
-
-![Reactjs Waitlist Template](waitlist-template.png)
-
-<hr/>
-
-### Contact Me!
-
-[Twitter](https://twitter.com/Basit_Miyanji)
-[Linkedin](https://www.linkedin.com/in/abdulbasitprofile/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit313&" alt="abdulbasit313" /></p>
