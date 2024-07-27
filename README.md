@@ -1,39 +1,35 @@
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">React.js Developer | Crafting Engaging Technical Articles on Web App Development | Organic Growth Hacker</h3>
+## I am **Abdul Basit**, Software Architect, Content Creator, Trainer, Tech Newsletter Copywriter.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit313&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit313" /> </p>
+### Some of my Open Source Work
+1. **React Quiz App Template**
+   - "Xeven Quiz" A quiz App template built with ReactJS, TypeScript, and Styled Components that saves your time, energy, and money! Are you ready to create your very own dynamic quiz application that scales effortlessly? It provides a solid foundation and follows best practices and coding conventions.
+   - Visit: [https://github.com/AbdulBasit313/React-Quiz-App-Template](https://github.com/AbdulBasit313/React-Quiz-App-Template)
 
-<p align="left"> <a href="https://twitter.com/basit_miyanji" target="blank"><img src="https://img.shields.io/twitter/follow/basit_miyanji?logo=twitter&style=for-the-badge" alt="basit_miyanji" /></a> </p>
+2. **Practical Reactjs Coding Challenges**
+   - You will be given a designed responsive UI in Reactjs, and you have to make it functional by writing business logic to improve your frontend skills.
+   - Visit: [https://github.com/AbdulBasit313/practical-reactjs-coding-challenges](https://github.com/AbdulBasit313/practical-reactjs-coding-challenges)
 
-- 🔭 I’m currently working on [Codevertiser](https://www.codevertiser.com/)
+3. **Styled Components React**
+   - Sharing my collection of styled component configurations and reusable components, so you can use them in your web apps and personalize them as per need.
+   - Visit: [https://github.com/AbdulBasit313/styled-components-react](https://github.com/AbdulBasit313/styled-components-react)
 
-- 🌱 I’m currently learning **Next.js**
+I have a passion for **writing**, **SEO**, and **UI/UX**.
+- **Writing** leads me to content and copywriting.
+- **SEO** leads me to programmatic SEO.
+- **UI/UX** leads me to React templates.
 
-- 👯 I’m looking to collaborate on [https://github.com/AbdulBasit313/practical-reactjs-coding-challenges](https://www.codevertiser.com/free-reactjs-coding-challenges-for-responsive-UI/)
+So, I have combined all the above skills with my core skill (web development) and building mini products.
 
-- 👨‍💻 All of my projects are available at [https://codewithbasit.netlify.app/](https://codewithbasit.netlify.app/)
+1. I have built dozens of UIs from scratch using React.js.
 
-- 📝 I regularly write articles on [https://www.codevertiser.com/](https://www.codevertiser.com/)
+2. **My portfolio showcases my UI skills:** [https://basit.sh](https://basit.sh)
 
-- 💬 Ask me about **React, Gatsby, Styled Components, Technical Blogging**
+3. If you want to check out my recent work, you can find it at [https://www.flexyui.com](https://www.flexyui.com) (still in the development phase).
 
-- 📫 How to reach me **abdul_basit313@outlook.com**
+I have also explored programmatic SEO and built [https://mobiles360.pk/](https://mobiles360.pk/) with a Twitter friend. It has over 7,000 pages indexed on Google in the last 6 months and received 68K visitors in the last 28 days, according to the Search Console report.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/basit600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="basit600" height="30" width="40" /></a>
-<a href="https://dev.to/abdulbasit313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulbasit313" height="30" width="40" /></a>
-<a href="https://twitter.com/basit_miyanji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basit_miyanji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulbasitprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbasitprofile" height="30" width="40" /></a>
-</p>
+To polish my copywriting skills, I run a technical newsletter that has more than 200 subscribers (and growing).
 
+Rest of the information can be found in my portfolio, resume, GitHub, and LinkedIn profile.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasit313&show_icons=true&locale=en&layout=compact" alt="abdulbasit313" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasit313&show_icons=true&locale=en" alt="abdulbasit313" /></p>
-
+- **LinkedIn:** [https://www.linkedin.com/in/abdulbasitprofile/](https://www.linkedin.com/in/abdulbasitprofile/)
